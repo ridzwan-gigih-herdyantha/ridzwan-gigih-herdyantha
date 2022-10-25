@@ -4,4 +4,4 @@ My name is Yan Afriyoko and I love the Web. I'm mainly a Php and Laravel develop
 
 📊 My Stats
 
-![https://github.com/yan-afriyoko-developer/github-readme-stats](https://github-readme-stats.vercel.app/api?username=guillaumebriday&count_private=true&show_icons=true)
+![https://github.com/yan-afriyoko-developer/github-readme-stats](https://github-readme-stats.vercel.app/api?username=yan-afriyoko-developer&count_private=true&show_icons=true)
