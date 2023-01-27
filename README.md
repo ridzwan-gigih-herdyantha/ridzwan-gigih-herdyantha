@@ -1,7 +1,7 @@
 👋 Hey
 
-My name is Yan Afriyoko and I love the Web. I'm mainly a Php and Laravel developer at works with Stimulus and VueJS. I also do DevOps and Laravel stuff.
+My name is Ridzwan Gigih Herdyantha and I love the Web. I'm mainly NextJs developer at works.
 
 📊 My Stats
 
-![https://github.com/yan-afriyoko-developer/github-readme-stats](https://github-readme-stats.vercel.app/api?username=yan-afriyoko-developer&count_private=true&show_icons=true)
+![https://github.com/ridzwan-gigih-herdyantha/github-readme-stats](https://github-readme-stats.vercel.app/api?username=ridzwan-gigih-herdyantha&count_private=true&show_icons=true)
